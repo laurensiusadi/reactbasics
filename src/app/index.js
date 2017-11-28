@@ -9,6 +9,7 @@ class App extends React.Component {
     render() {
         let user = {
             name: "Anna",
+            initialAge: 27,
             hobbies: ["sports", "art"],
         };
         return (
